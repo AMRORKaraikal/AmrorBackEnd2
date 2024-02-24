@@ -1,0 +1,10 @@
+GET http://localhost:5000/get-report
+Content-Type: application/json
+
+
+   {
+    "patient_id":"patient_id",
+    "specimen_id":" specimen_id"
+}
+ 
+  
